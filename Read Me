@@ -1,0 +1,67 @@
+Created By:
+
+Dhruvinkumar Radadiya
+MT2019035
+
+
+-----------------BERT as Conditional Generative model ----------------------
+
+How to Run : 
+
+- open notebook in google colab.
+- press run all cell.
+- in running 8th cell it will ask for input, give any word related to which you want to generate sentences.
+- wait for the output.
+
+
+Pitfalls :
+- not contextually correct every time (according to observation, works fine 80% of time)
+- some words are not trained by BERT, for those words it will given o/p "no token available"
+
+************Enjoy the code**************
+
+
+Some examples:
+
+*** PROUD****
+1) a woman was sitting with a man and talking about what the people were saying about this majestic place .
+2) later , she added a simple white frame and enigmatic stained glass projectors to her majestic appearance .
+3) " she is sad , but she is not overly proud , " said justin , turning to leave .
+4) but i had made a big mistake ; i was proud . booke leaned back in his chair .
+5) she was a remarkable woman - both gallant and charming . he found his mind searching desperately for her .
+6) it was only when she took it gallantly and forced herself to pull free from his strong arms .
+
+
+***DISAPPOINTED***
+1) no one saw him as such . these men and the girls who thwarted him once were good people .
+2) she is a huge fan of king henry viii bragging of his thwarted plans for the spanish armada .
+3) relieved and disappointed he also had it wrong . was he really wanting staffan to have loved him ?
+4) still , disappointed that she had been right , i was not angry . just as angry as she .
+5) but the things he was about to say already frustrated him . maybe he really was being considerate .
+6) give me one chance in a lifetime to be frustrated with you . not with anyone in your life .
+7) his team defeated clark in games 1 and 2 . clark , for which he played , was defeated .
+8) they then defeated the former nwa world heavyweight champion and chikara champion muhammad ali and jack finlay .
+
+
+***FEAR****
+1) but it was the fear that really shook her .
+2) it was not her fear , but her curiosity .
+3) " where are we ? " asked awen .
+4) maybe , maybe not , at the awe level .
+5) and that will explain my concern , he realized .
+6) there have never been any concern in his life .
+7) he heard the fright in clary ' s voice .
+8) and what would frighten the purebloods ?
+9) he had seen no fear or dread at all .
+10) he only held me in a dreaded way ;
+11) all he could really care about was his safety .
+12) sometimes these people do care enough to not care .
+
+
+
+
+you can try many more......
+
+
+
+
